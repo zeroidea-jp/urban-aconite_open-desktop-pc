@@ -1,5 +1,5 @@
 Design files available,Data sheet,Open source design or open standard,Description,Supplemental Description (Zeroidea),Vendor,Vendor Part Number,Self-source vendor suggestion,Candidate Supplier in Japan (Zeroidea),Estimate (Zeroidea),thelio-b1,thelio-r1,thelio-major-b1,thelio-major-r1,thelio-massive-b1,Updates&Comment by Zeroidea
----,---,---,---,,---,---,---,,---,---,---,---,---,---,---
+---,---,---,---,---,---,---,---,,---,---,---,---,---,---,---
 SYSTEM76,https://shop.ryerson.com/catalog/details/101116?qry=&did=88152aef-354b-4dd7-a1c4-a9671c8e1043,Y,Aluminum sheet metal,アルミ板金。A5052H32相当。 t1.6-1524x3048 。※データシート有り。,Ryerson,5052SH063X60X120,Xometry,キャディ株式会社・株式会社クリーン精光など,,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,
 SYSTEM76,,Y,Custom aluminum extrusions (requires dies),（注）アルミの特注押出材（アルミの場合金型>100万円が必要）。筐体のR部。形状変更などの対応がよいか。,Richardson Metals,"E1 V2, E2 V2, E3 V2, E4 V4",3D Print,キャディ株式会社・株式会社クリーン精光など,,325.4mm L,325.4mm L,459.75mm L,459.75mm L,TBD,
 SYSTEM76,,Y,Walnut veneer with 3M PSA backing,（注）ウォールナットのベニア板。裏面にアクリル系粘着剤（PSA)。,Lenderink Technologies,,Lenderink Technologies,キャディ株式会社・北伸合板株式会社など,,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,
@@ -18,15 +18,15 @@ Y,,?,15mm rubber case feet with m4 thread insert,（注）ラバークッショ�
 Y,,?,20mm rubber case feet with m4 thread insert,同上,"Dongguan Hanxiang Rubber Products Co., Ltd. ",,McMaster-Carr,,,0,0,4,4,4,
 Y,,Y,M4 x.7 x 5 mm feet screws,M4 ✕ 5 (並目ネジ＝ピッチ0.7)。ラバークッション部用。※図面参照のこと。,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,4,4,4,4,4,
 Determine and buy,,Y,M3 x 8mm drive cage screws,M3 ✕ 8 （ドライブケージ用ネジ）。選定して購入のこと。,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,4,4,8,8,12,
-System76,,Y,Power button electrical external connection PCB,,"Maoye Electrical Co.,LTD",,,,,1,1,1,1,1,
-System76,,Y,Power button electrical internal connection PCB,,"Maoye Electrical Co.,LTD",,,,,1,1,1,1,1,
+System76,,Y,Power button electrical external connection PCB,???該当と思われるデータシートとの関連が不明,"Maoye Electrical Co.,LTD",,,,,1,1,1,1,1,
+System76,,Y,Power button electrical internal connection PCB,???該当と思われるデータシートとの関連が不明,"Maoye Electrical Co.,LTD",,,,,1,1,1,1,1,
 Y,,Y,Steel m3 rivet nuts,（注）呼び径3 リベット。ミスミ型番 TAPD30M3BS 相当。主要でない寸法が指定からずれているので、テスト必須。,"Shanghai Zhengjiang Fastener CO.,LTD ",,McMaster-Carr,,,14,14,20,20,20,
-Y,,?,Power button w/ 19mm clearance hole,,"Shenzhen Hongju Electronics Co.,Ltd",,Sparkfun?,,,1,1,1,1,1,
+Y,,?,Power button w/ 19mm clearance hole,Hongju 製 PB-02A-19-MF-BOG / Amazon (Ulincos U19C1 1NO1NC SPDT ON/OFF Push Button Switch) など,"Shenzhen Hongju Electronics Co.,Ltd",,Sparkfun?,,,1,1,1,1,1,
 System76,,Y,Power button upper mount,.step データ有り。（図面なし？）。プラ部品。３Dプリントか、レジストの流し込みなどで対応。,"Guangzhou Engineering Plastics Industries (Group) Co., Ltd  ",,3D Print,,,1,1,1,1,1,
 System76,,Y,Power buttons lower mount,.step データ有り。（図面なし？）。プラ部品。３Dプリントか、レジストの流し込みなどで対応。,"Guangzhou Engineering Plastics Industries (Group) Co., Ltd  ",,3D Print,,,1,1,1,1,1,
 N/A,https://www.mcmaster.com/94180a353,Y,Power button mount heated threaded inserts,,,,,,,,,,,,
-System76,,Y,Thelio Io,," WANFENG CIRCUIT CO., LTD",,Oshpark and Mouser,,,1,1,2,2,2,We may not use thelio-io
-System76,,Y,Thelio Io SAS,," WANFENG CIRCUIT CO., LTD",,Oshpark and Mouser,,,0,0,0,0,1,We may not use thelio-io-sas
+System76,,Y,Thelio Io,見積り中（2020/11/16）," WANFENG CIRCUIT CO., LTD",,Oshpark and Mouser,,,1,1,2,2,2,We may not use thelio-io
+System76,,Y,Thelio Io SAS,見積り中（2020/11/16）," WANFENG CIRCUIT CO., LTD",,Oshpark and Mouser,,,0,0,0,0,1,We may not use thelio-io-sas
 System76,,Y,2.15 dbi antennas,,Dongguan Haonuo Electronic Co. Ltd,,Amazon,,,2,2,2,2,0,
 N,https://www.gigabyte.com/Motherboard/B450-AORUS-PRO-WIFI-rev-10#kf,N,Gigabyte B450 I AORUS PRO WIFI,,Gigabyte ,B450 I AORUS PRO WIFI,Amazon,,,1,0,0,0,0,
 N,https://www.gigabyte.com/us/Motherboard/H370N-WIFI-rev-10#kf,N,Gigabyte H370N WiFi,,Gigabyte ,H370N WiFi,Amazon,,,0,1,0,0,0,
