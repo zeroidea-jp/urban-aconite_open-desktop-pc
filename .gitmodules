@@ -1,0 +1,3 @@
+[submodule "thelio"]
+	path = thelio
+	url = git@github.com:system76/thelio.git
