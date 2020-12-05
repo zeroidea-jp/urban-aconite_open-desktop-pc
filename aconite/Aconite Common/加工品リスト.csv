@@ -1,0 +1,22 @@
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,番号,フォルダ,部品名.step,材質,補足,数量,丸穴※１,特殊な穴・切込み等※１,ネジ穴,曲げ,表面処理※２,※２,補足・備考・変更予定等
+,1,Thelio Main / CAD / STEP Internal R1,Internal V1.step,A5052, t.6 ,1,38,61,0,2,粉末焼結,4-スペンサー,内装部品。ファンの通気口は簡略化、16-Φ5 削除するため数に含めていません。
+,2,Thelio Main / CAD / STEP Internal Common,Bottom Tray V1.step,A5052, t.6 ,1,8,4?,0,3,粉末焼結,4-リベット,内装部品。
+,3,Thelio Main / CAD / STEP Internal Common,Brace V1.step,A5052, t.6 ,1,4,0,0,"4, or 6",粉末焼結,4-スペンサー,内装部品。切り込みを一つ追加
+,4,Thelio Main / CAD / STEP Internal Common,CPU Duct V1.step,A5052, t.6 ,1,6,0,0,3,粉末焼結,4-スペンサー,内装部品。
+,5,Thelio Main / CAD / STEP Internal Common,Cage V1.step,A5052, t.6 ,1,4,5,0,4,粉末焼結,4-スペンサー,内装部品。
+,6,Thelio Main / CAD / STEP Internal Common,GPU Brace V1.step,A5052, t.6 ,1,2,1,0,3,粉末焼結,2-スペンサー,内装部品。
+,7,Thelio Main / CAD / STEP Internal Common,GPU Spacer V1.step,A5052, t10 ,1,3,1,0,0,粉末焼結,-,内装部品。切削加工品
+,8,Thelio Main / CAD / STEP Internal Common,PCI Bracket V1.step,A5052, t.6 ,1,2,1,0,1,粉末焼結,-,内装部品。
+,9,Thelio Main / CAD / STEP Internal Common,Serial V1.step,A5052, t.6 ,1,2,0,0,0,粉末焼結,-,内装部品。
+,10,Thelio Main / CAD / STEP External V1,Front V1.step,A5052, t.6 ,1,1,0,0,0,粉末焼結,-,外装部品。類似形状でデザインの変更の可能性があります。PSAにて接着剤し固定
+,11,Thelio Main / CAD / STEP External V1,Side 1 V1.step,A5052, t.6 ,1,0,1,0,0,粉末焼結,-,外装部品。類似形状でデザインの変更の可能性があります。PSAにて接着剤し固定
+,12,Thelio Main / CAD / STEP External V1,Side 2 V1.step,A5052, t.6 ,1,0,2,0,0,粉末焼結,-,外装部品。類似形状でデザインの変更の可能性があります。PSAにて接着剤し固定
+,13,Thelio Main / CAD / STEP External V1,Top V1.step,A5052, t.6 ,1,0,0,0,0,粉末焼結,-,外装部品。類似形状でデザインの変更の可能性があります。PSAにて接着剤し固定
+,番号,フォルダ,部品名.step,材質,補足,数量,丸穴※,特殊な穴・切込み等※,ネジ穴,曲げ,表面処理,追加部品,備考・変更予定等
+,14,Thelio Main / CAD / Extrusions,E1 V2.step,A5052,押出成形,1,0,0,0,,粉末焼結,-,※４変更予定。（JIS H 4080 / A5052 / D60-t4.18 の追加工品に変更か）
+,15,Thelio Main / CAD / Extrusions,E2 v2.step,A5052,押出成形,1,0,0,0,,粉末焼結,-,※４変更予定。（JIS H 4080 / A5052 / D60-t4.18 の追加工品に変更か）
+,16,Thelio Main / CAD / Extrusions,E3 v2.step,A5052,押出成形,1,0,0,0,,粉末焼結,-,※４変更予定。（JIS H 4080 / A5052 / D60-t4.18 の追加工品に変更か）
+,17,Thelio Main / CAD / Extrusions,E4 v4.step,A5052,押出成形,1,0,0,0,,粉末焼結,-,※４変更予定。（JIS H 4080 / A5052 / D60-t4.18 の追加工品に変更か）
+,18,Thelio Main / CAD / STEP External V1,Veneer  V1.step,ベニア,シート/裏面PSA,1,0,0,0,,ニス,-,外装部品。PSAにて接着剤し固定。類似形状でデザインの変更の可能性があります
